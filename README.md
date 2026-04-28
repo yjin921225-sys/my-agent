@@ -1,2 +1,0 @@
-# agent-vault
-stock agency
